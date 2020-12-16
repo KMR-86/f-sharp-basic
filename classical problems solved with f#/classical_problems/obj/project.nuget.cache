@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IW4t/oPgpcbmFpMPlgxWIxW2rpFkt7X6RLFI+hqKyWxkPe9dwKEDc9kvwOM8jifjANvkhh24+duPBDQn7/pbwQ==",
+  "success": true,
+  "projectFilePath": "D:\\f#\\classical problems solved with f#\\classical_problems\\classical_problems.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
